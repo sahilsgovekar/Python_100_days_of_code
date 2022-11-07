@@ -1,0 +1,12 @@
+body {
+    background-color: #f0ffff;
+}
+
+h3, h1 {
+    color: rgb(25, 195, 229);
+}
+
+.req:hover{
+    background-color: aquamarine;
+    border-radius: 25%;
+}
